@@ -1,0 +1,30 @@
+/*Taille de la map*/
+#map { height:750px }
+/*Informations de la carte (logo ... )*/
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    }
+ .info h2 {
+    margin: 0 0 5px;
+    color: #777;}
+
+.head { display: block;
+height: 80px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+font-size: 30px;
+color: aliceblue;
+background-color: rgb(155, 155, 155);
+padding-top: 5px;
+margin-top: 20px;
+margin-bottom: 20px;
+
+
+
+
+}
